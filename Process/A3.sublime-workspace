@@ -1,0 +1,799 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ra",
+				"RANGE"
+			],
+			[
+				"Data",
+				"DATA_SIZE"
+			],
+			[
+				"ini",
+				"init_frames"
+			],
+			[
+				"init",
+				"init_linkedlists"
+			],
+			[
+				"print",
+				"print_frame"
+			],
+			[
+				"frames",
+				"frame_size"
+			],
+			[
+				"pag",
+				"v_pages"
+			],
+			[
+				"p",
+				"p_number"
+			],
+			[
+				"frame",
+				"frame_size"
+			],
+			[
+				"v",
+				"v_pages"
+			],
+			[
+				"fr",
+				"frame_size"
+			],
+			[
+				"string",
+				"string_to_int"
+			],
+			[
+				"read",
+				"read_file"
+			],
+			[
+				"Thread",
+				"THREAD_SIZE"
+			],
+			[
+				"THr",
+				"THREAD_SIZE"
+			],
+			[
+				"Creat",
+				"create_thread"
+			],
+			[
+				"THREAD",
+				"THREAD_SIZE"
+			],
+			[
+				"Print",
+				"printStackTrace"
+			],
+			[
+				"prin",
+				"print_numbers"
+			],
+			[
+				"out",
+				"OutputStream"
+			],
+			[
+				"Ou",
+				"OutputStream"
+			],
+			[
+				"P",
+				"printStackTrace"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"rand",
+				"Random"
+			],
+			[
+				"in",
+				"InetAddress"
+			],
+			[
+				"int",
+				"int_to_hex"
+			],
+			[
+				"texter",
+				"texter_address"
+			],
+			[
+				"ma",
+				"machiner"
+			],
+			[
+				"int_",
+				"int_value"
+			],
+			[
+				"end",
+				"end_address"
+			],
+			[
+				"start",
+				"start_address"
+			],
+			[
+				"star",
+				"start_address"
+			],
+			[
+				"w",
+				"write_object_file"
+			],
+			[
+				"get",
+				"get_value"
+			],
+			[
+				"for",
+				"format4range"
+			],
+			[
+				"format",
+				"format4range"
+			],
+			[
+				"sym",
+				"symtab_exception"
+			],
+			[
+				"base",
+				"base_relative"
+			],
+			[
+				"tmp",
+				"tmp_base"
+			],
+			[
+				"str",
+				"string_to_int"
+			],
+			[
+				"machine",
+				"machine_code"
+			],
+			[
+				"parse",
+				"parse_operand"
+			],
+			[
+				"offset",
+				"offset"
+			],
+			[
+				"ba",
+				"base_address"
+			],
+			[
+				"x",
+				"x_in_operand"
+			],
+			[
+				"t",
+				"tmp"
+			],
+			[
+				"value",
+				"value_str"
+			],
+			[
+				"regsiter",
+				"register_two"
+			],
+			[
+				"register",
+				"register_two"
+			],
+			[
+				"regs",
+				"register_one"
+			],
+			[
+				"reg",
+				"register_one"
+			],
+			[
+				"inv",
+				"int_value"
+			],
+			[
+				"regist",
+				"register_one"
+			],
+			[
+				"re",
+				"register_two"
+			],
+			[
+				"res",
+				"register_one"
+			],
+			[
+				"opcode",
+				"opcode_error_exception"
+			],
+			[
+				"getm",
+				"get_machine_code"
+			],
+			[
+				"ch",
+				"check_asm_dir"
+			],
+			[
+				"as",
+				"assign_mach_code"
+			],
+			[
+				"Hex",
+				"hex_value"
+			],
+			[
+				"sy",
+				"symtab_exception"
+			],
+			[
+				"L",
+				"Line"
+			],
+			[
+				"X",
+				"X"
+			],
+			[
+				"label",
+				"label_address"
+			],
+			[
+				"bas",
+				"base_operand"
+			],
+			[
+				"tm",
+				"tmp_base_address"
+			],
+			[
+				"op",
+				"opcode_error_exception"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"found",
+				"found_tab"
+			],
+			[
+				"IOE",
+				"IOException"
+			],
+			[
+				"bae",
+				"base_operand"
+			],
+			[
+				"hex",
+				"hex_value"
+			],
+			[
+				"ex",
+				"exception"
+			],
+			[
+				"par",
+				"parse_to_struct"
+			],
+			[
+				"he",
+				"hex_value"
+			],
+			[
+				"asm",
+				"asm_address"
+			],
+			[
+				"sie",
+				"sicxe_asm"
+			],
+			[
+				"pars",
+				"parse_data"
+			],
+			[
+				"load",
+				"load_symtab"
+			],
+			[
+				"parser",
+				"file_parser"
+			],
+			[
+				"file",
+				"file_parser"
+			],
+			[
+				"transo",
+				"transposedArray"
+			],
+			[
+				"bit",
+				"bitArray"
+			],
+			[
+				"port",
+				"port"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"pw",
+				"pw"
+			],
+			[
+				"redi",
+				"redirect"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"h",
+				"HttpURLConnection"
+			],
+			[
+				"opco",
+				"opcodetab"
+			],
+			[
+				"Buffere",
+				"BufferedReader"
+			],
+			[
+				"R",
+				"Runnable"
+			],
+			[
+				"Co",
+				"ConnectionManager"
+			],
+			[
+				"CON",
+				"ConnectionManager"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"pack",
+				"packByte"
+			],
+			[
+				"makeRand",
+				"makeRandomErrors"
+			],
+			[
+				"boolean",
+				"booleanArrayToString"
+			],
+			[
+				"BOOL",
+				"booleanArrayToString"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 110.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"java Server 90",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A5/Server.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A5/Client.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A6/Server.java",
+		"/C/Users/Wook/Downloads/Background.java",
+		"/C/Users/Wook/Downloads/Foreground.java",
+		"/C/Users/Wook/Downloads/Objects.java",
+		"/C/Users/Wook/Downloads/ScrollHandler.java",
+		"/C/Users/Wook/Desktop/A2/pages.txt",
+		"/C/Users/Wook/Desktop/A2/Makefile",
+		"/C/Users/Wook/Desktop/A2/A2.h",
+		"/C/Users/Wook/Desktop/A2/A2.cpp",
+		"/C/Users/Wook/Desktop/A1/A1.h",
+		"/C/Users/Wook/Desktop/A1/A1.cpp",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS530/prog5/sicxe_asm.cpp",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS530/prog5/sicxe_asm.h",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS530/prog5/file_parser.cc",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS530/prog5/file_parser.h",
+		"/C/Users/Wook/Desktop/Final/Client.java",
+		"/C/Users/Wook/Desktop/Final/Server.java",
+		"/C/Users/Wook/Downloads/sem.h",
+		"/C/Users/Wook/Downloads/sem.cc",
+		"/C/Users/Wook/Desktop/Target.cs",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS530/prog5/symtab.cc",
+		"/C/Users/Wook/Desktop/A1/A1",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS530/prog5/Makefile",
+		"/C/Users/Wook/Desktop/A6/Server.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/Python/first.py",
+		"/C/Users/Wook/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Wook/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Wook/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Wook/Desktop/A6/Client.java",
+		"/C/Users/Wook/Desktop/Assignment5/Client.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A4/Server.java",
+		"/C/Users/Wook/Desktop/Assignment5/Server.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A4/Client.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A1/A1/Client.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A3/Client.java",
+		"/C/Users/Wook/Desktop/A5/Server.java",
+		"/C/Users/Wook/Desktop/A6/[path",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A3/Server.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A2/Client.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A1/A1/Server.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A2/Server.java",
+		"/C/Users/Wook/Desktop/A6/[dir",
+		"/C/Users/Wook/Desktop/A5/Client.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/Project 2/Server.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A1/Server",
+		"/C/Users/Wook/Desktop/A6/  required",
+		"/C/Users/Wook/Desktop/A6/  found",
+		"/C/Users/Wook/Desktop/A6/Assembler.sublime-project",
+		"/C/Users/Wook/Desktop/prog5/source5.lis",
+		"/C/Users/Wook/Desktop/prog5/sicxe_asm.cpp",
+		"/C/Users/Wook/Desktop/prog5/source7.o",
+		"/C/Users/Wook/Desktop/prog5/source6.lis",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/Midterm/Webscraper.java",
+		"/C/Users/Wook/Desktop/prog4/source8.lis",
+		"/C/Users/Wook/Desktop/prog4/sicxe_asm.cpp",
+		"/C/Users/Wook/Desktop/prog4/test1.cpp",
+		"/C/Users/Wook/Desktop/prog4/source7.lis",
+		"/C/Users/Wook/Desktop/prog4/symtab.h",
+		"/C/Users/Wook/Desktop/prog4/symtab.cc",
+		"/C/Users/Wook/Desktop/prog4/source9.lis",
+		"/C/Users/Wook/Downloads/sicxe_asm (1).cpp",
+		"/C/Users/Wook/Desktop/prog4/sicxe_asm.h",
+		"/C/Users/Wook/Desktop/prog4/source1.asm",
+		"/C/Users/Wook/Desktop/prog4/source7a.lis",
+		"/C/Users/Wook/Desktop/prog4/source5.lis",
+		"/C/Users/Wook/Downloads/sicxe_asm.cpp",
+		"/C/Users/Wook/Downloads/sicxe_asm.h",
+		"/C/Users/Wook/Desktop/prog4/source7.asm",
+		"/C/Users/Wook/Downloads/sicxe_asm (3).cpp",
+		"/C/Users/Wook/Downloads/sicxe_asm (2).h",
+		"/C/Users/Wook/Desktop/prog4/sicxe_asm (2).cpp",
+		"/C/Users/Wook/Desktop/prog4/my_source.asm",
+		"/C/Users/Wook/Desktop/prog4/opcodetab.h",
+		"/C/Users/Wook/Desktop/prog4/source6.asm",
+		"/C/Users/Wook/Desktop/prog3/Assembler.sublime-project",
+		"/C/Users/Wook/Desktop/prog4/source6.lis",
+		"/C/Users/Wook/Desktop/prog4/opcodetab.cc",
+		"/C/Users/Wook/Desktop/prog4/file_parser.cc",
+		"/C/Users/Wook/Desktop/prog4/driver.cc",
+		"/C/Users/Wook/Desktop/prog4/file_parser.h",
+		"/C/Users/Wook/Desktop/prog3/file_parser.h",
+		"/C/Users/Wook/Desktop/prog3/sicxe_asm.h",
+		"/C/Users/Wook/Desktop/prog3/file_parser.cc",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A4/Note",
+		"/C/Users/Wook/Desktop/prog3/sicxe_asm.cpp",
+		"/C/Users/Wook/Desktop/prog3/symtab.h",
+		"/C/Users/Wook/Desktop/prog3/symtab.cc",
+		"/C/Users/Wook/Desktop/prog3/source3.asm",
+		"/C/Users/Wook/Desktop/sicxe_asm.cpp",
+		"/C/Users/Wook/Documents/GitHub/Assembler/sicxe_asm.cpp",
+		"/C/Users/Wook/Documents/GitHub/Assembler/sicxe_asm.h",
+		"/C/Users/Wook/Desktop/sicxe_asm.cc",
+		"/C/Users/Wook/Desktop/prog3/source3.lis",
+		"/C/Users/Wook/Desktop/prog3/sicxe_asm.cc",
+		"/C/Users/Wook/Desktop/source3.lis",
+		"/C/Users/Wook/Documents/GitHub/Assembler/sicxe_asm.cc",
+		"/C/Users/Wook/Desktop/file_parser.h",
+		"/C/Users/Wook/Desktop/file_parser.cc",
+		"/C/Users/Wook/Desktop/driver.cc",
+		"/C/Users/Wook/Documents/GitHub/Assembler/file_parser.cc",
+		"/C/Users/Wook/Documents/GitHub/Assembler/file_parser.h",
+		"/C/Users/Wook/Desktop/prog3/opcodetab.cc",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS530/prog2/driver.cc",
+		"/C/Users/Wook/Desktop/prog3/opcodetab.h",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS530/prog2/opcodetab.h",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS530/prog2/opcodetab.cc",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS530/prog2/opcode_error_exception.h",
+		"/C/Users/Wook/Desktop/prog3/symtab_exception.h",
+		"/C/Users/Wook/Desktop/Midterm/fileComparison.java",
+		"/C/Users/Wook/Desktop/Midterm/ErrorCorrection.java",
+		"/C/Users/Wook/Desktop/ErrorCorrection.java",
+		"/C/Users/Wook/Desktop/A3/Client.java",
+		"/C/Users/Wook/Desktop/Midterm/Webscraper.java",
+		"/C/Users/Wook/Desktop/Makefile",
+		"/C/Users/Wook/Desktop/Midterm/HtmlParseDemo.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS576/A2/TestFile.java",
+		"/C/Users/Wook/Desktop/prog2/Makefile",
+		"/C/Users/Wook/Desktop/prog2/opcodetab.h",
+		"/C/Users/Wook/Desktop/prog2/opcode_error_exception.h",
+		"/C/Users/Wook/Desktop/prog2/opcodetab.cc",
+		"/C/Users/Wook/Desktop/prog2/driver.cc",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS530/Project1/file_parser.cc",
+		"/C/Users/Wook/Desktop/opcodetab.cc",
+		"/C/Users/Wook/Desktop/opcodetab.h",
+		"/C/Users/Wook/Desktop/Midterm/Client.java",
+		"/C/Users/Wook/Google Drive/CS - Programming/CS530/Project1/driver.cc"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"frame",
+			"opt",
+			"calcu",
+			"bit",
+			"if( current == frames.end()) {\n			current = frames.begin();\n		}\n\n		int m = search(v_pages[i].p_number);\n		if(m != -1) {\n			for(int n = m; n >= 0; n--) {\n				current++;\n			}\n			current->bit = 1;\n		}\n		else {\n			if(current->bit == 0) {\n				*current = v_pages[i];\n				current->bit = 1;\n			}\n			else {\n				while(next->bit == 1 && next != current) {\n					if(next == frames.end()) { \n						next = frames.begin(); \n					}\n					next->bit = 0;\n					next++;\n				}\n				*next = v_pages[i];\n				next->bit = 1;\n			}\n			faults++;\n		}",
+			";\n",
+			"iter",
+			"init",
+			"A1",
+			"mutex",
+			"threader",
+			"write",
+			"mutex",
+			"();\n",
+			"rand",
+			"();\n",
+			"name",
+			"end",
+			"int_to_hex",
+			"get_mach",
+			"xbpe",
+			"offset",
+			"xbpe",
+			"an opcode error",
+			"{\n",
+			"displacement",
+			"cout",
+			"displace",
+			"cout",
+			"get_mach",
+			"second",
+			"an opcode error has occured",
+			"opcode_error",
+			"opcode_ex",
+			"offset",
+			"xbp",
+			"mach_code",
+			"get_offset",
+			"set_ni",
+			"isformat4",
+			"get_offset",
+			"string",
+			"if(size == 1) {\n					cout << opcode.get_machine_code(op) << endl;\n				}\n				if(size == 2) {\n					cout << format_two(op, operand) << endl;\n				}",
+			";\n",
+			"is_format4",
+			"upper",
+			"int to hex",
+			"hex_to_int",
+			"hex_value",
+			"int_value",
+			"hex_to_int",
+			"int_value",
+			"fix",
+			"symbol not found",
+			"ignore",
+			"asm_add",
+			"hex_value",
+			"zeta",
+			"get_",
+			"opcode",
+			"}\n",
+			"+\".",
+			"add_sym",
+			"operand",
+			"file",
+			";\n",
+			"());\n",
+			");\n",
+			"}\n",
+			"system",
+			";\n",
+			"{\n",
+			"data"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"use",
+			"A2",
+			"SEM",
+			"A1",
+			"SEM"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "A3.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Wook\\Google Drive\\CS - Programming\\Python\\first.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"",
+				"A1_"
+			]
+		],
+		"width": 378.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
