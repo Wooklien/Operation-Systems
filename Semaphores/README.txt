@@ -1,5 +1,4 @@
-/* Quoc Lien (816097211)
-*  Masc1434
+/* Quoc Lien
 *  CS570, Summer 2014
 *  Assignment #3, Processes with time viewer.
 *  README.txt
